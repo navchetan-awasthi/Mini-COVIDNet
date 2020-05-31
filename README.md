@@ -7,4 +7,6 @@ of the aret techniques such as POCOVID-Net and comapred our models in terms of s
 various figures of merit.
 
 
-This repository conatins the notebooksfor all the codes which were run for all the models present.
+This repository conatins the notebooks for all the codes which were run for all the models proposed and compared.
+
+

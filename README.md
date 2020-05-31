@@ -9,6 +9,11 @@ various figures of merit.
 ## Contributors : 
 Navchetan Awasthi, and Phaneendra K. Yalavarthy
 
+## Datasets :
+The dataset utilized in this work is available at:
+https://github.com/jannisborn/covid19_pocus_ultrasound/tree/master/data
+Please use the same instructions to get the data for research purposes and do cite the relevant work.
+
 ## Models used for the comparisons
 This repository conatins the notebooks for all the codes which were run for all the models proposed and compared.
 

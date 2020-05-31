@@ -11,10 +11,10 @@ This repository conatins the notebooks for all the codes which were run for all 
 
 The various models comapred here can be given as:
 
-COVID-CAPS
-COVID-Net
-Mini-COVIDNet
-Mini-COVIDNet (focal loss)
-MOBILENetV2
-NASNETMOBILE
+* COVID-CAPS
+* COVID-Net
+* Mini-COVIDNet
+* Mini-COVIDNet (focal loss)
+* MOBILENetV2
+* NASNETMOBILE
 

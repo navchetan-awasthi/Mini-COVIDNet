@@ -22,22 +22,19 @@ This architecture has been intially used for identification of COVID-19 from che
 
 Here, a VGG-16 network architecture pretrained archietcture was used for the detection of COVID-19 for ultrasound images. 
 
-* Mini-COVIDNet
+* Mini-COVIDNet :
 
 Here, a modified mobilenet architecture was used and shown to perform better for ultrasound images. It consists of depthwise convolution and separable convolution instead of normal convolution and shown to perfrom better. 
 
-* Mini-COVIDNet (focal loss)
-
+* Mini-COVIDNet (focal loss) :
 
 Here, a modified mobilenet architecture was used and shown to perform better for ultrasound images. It consists of depthwise convolution and separable convolution instead of normal convolution and shown to perfrom better using the loss function involving the focal loss. 
 
-* MOBILENetV2
-
+* MOBILENetV2 :
 
 Here, a modified mobilenetv2 architecture was used and shown to perform better for ultrasound images. It consists of depthwise convolution and separable convolution instead of normal convolution.
 
 * NASNETMOBILE
-
 
 Here, a modified NasNetMobile architecture was used and shown to perform better for ultrasound images. It consists of depthwise convolution and separable convolution instead of normal convolution and shown to perfrom better. 
 

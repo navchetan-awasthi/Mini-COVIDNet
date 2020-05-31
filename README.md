@@ -6,12 +6,14 @@ compared with state of the art techniques for ultrasound imaging. We compared ou
 of the aret techniques such as POCOVID-Net and comapred our models in terms of size, number of parameters as well as the 
 various figures of merit.
 
+## Contributors : Navchetan Awasthi, and Phaneendra K. Yalavarthy
 
+## Models used for the comparisons
 This repository conatins the notebooks for all the codes which were run for all the models proposed and compared.
 
 The various models comapred here can be given as:
 
-* COVID-CAPS
+* COVID-CAPS :
 * COVID-Net
 * Mini-COVIDNet
 * Mini-COVIDNet (focal loss)

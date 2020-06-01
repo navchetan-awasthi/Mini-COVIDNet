@@ -29,11 +29,11 @@ Here, a VGG-16 network architecture pretrained archietcture was used for the det
 
 * Mini-COVIDNet :
 
-Here, a modified mobilenet architecture was used and shown to perform better for ultrasound images. It consists of depthwise convolution and separable convolution instead of normal convolution and shown to perfrom better. 
+Here, a modified mobilenet architecture was used and shown to perform better for ultrasound images. It consists of depthwise convolution and separable convolution instead of normal convolution and shown to perform better. 
 
 * Mini-COVIDNet (focal loss) :
 
-Here, a modified mobilenet architecture was used and shown to perform better for ultrasound images. It consists of depthwise convolution and separable convolution instead of normal convolution and shown to perfrom better using the loss function involving the focal loss. 
+Here, a modified mobilenet architecture was used and shown to perform better for ultrasound images. It consists of depthwise convolution and separable convolution instead of normal convolution and shown to perform better using the loss function involving the focal loss. 
 
 * MOBILENetV2 :
 

@@ -3,7 +3,7 @@ Mini-COVIDNet : Efficient Light Weight Deep Neural Network for Ultrasound based 
 
 Mobile network based models are proposed for making smalle models for COVID-19 detection and 
 compared with state of the art techniques for ultrasound imaging. We compared our models with other state
-of the aret techniques such as POCOVID-Net and comapred our models in terms of size, number of parameters as well as the 
+of the art techniques such as POCOVID-Net and comapred our models in terms of size, number of parameters as well as the 
 various figures of merit.
 
 ## Contributors : 

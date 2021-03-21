@@ -9,7 +9,7 @@ Mobile network based models are proposed for making smaller models for COVID-19 
 various figures of merit.
 
 ## Contributors : 
-Navchetan Awasthi, and Phaneendra K. Yalavarthy
+Navchetan Awasthi, Aveen Dayal, Linga R. Cenkeramaddi, and Phaneendra K. Yalavarthy
 
 ## Datasets :
 The dataset utilized in this work is available at:

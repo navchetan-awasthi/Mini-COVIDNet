@@ -1,6 +1,9 @@
 # Mini-COVIDNet
 Mini-COVIDNet : Efficient Light Weight Deep Neural Network for Ultrasound based Point-of-Care Detection of COVID-19
 
+Please cite this work if you use any codes in your work:
+Navchetan Awasthi, Aveen Dayal, Linga R. Cenkeramaddi, and Phaneendra K. Yalavarthy, "Mini-COVIDNet : Efficient Light Weight Deep Neural Network for Ultrasound based Point-of-Care Detection of COVID-19," IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (Special issue on Ultrasound in COVID-19 and Lung Diagnostics) 2021 (in press). [doi: 10.1109/TUFFC.2021.3068190]
+
 Mobile network based models are proposed for making smalle models for COVID-19 detection and 
 compared with state of the art techniques for ultrasound imaging. We compared our models with other state
 of the art techniques such as POCOVID-Net and comapred our models in terms of size, number of parameters as well as the 
@@ -37,9 +40,15 @@ Here, a modified mobilenet architecture was used and shown to perform better for
 
 * MOBILENetV2 :
 
-Here, a modified mobilenetv2 architecture was used and shown to perform better for ultrasound images. It consists of depthwise convolution and separable convolution instead of normal convolution.
+Here, a modified mobilenetv2 architecture was used for the detection of COVID-19 in ultrasound images.
 
-* NASNETMOBILE
+* NASNETMOBILE : 
 
-Here, a modified NasNetMobile architecture was used and shown to perform better for ultrasound images. It consists of depthwise convolution and separable convolution instead of normal convolution and shown to perfrom better. 
+Here, a modified NasNetMobile architecture was used for the detection of COVID-19 in ultrasound images.
+
+
+* ResNet50 : 
+
+Here, a modified ResNet50 architecture was used for the detection of COVID-19 in ultrasound images.
+
 

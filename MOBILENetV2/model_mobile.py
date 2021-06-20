@@ -1,6 +1,7 @@
 
 """
 Mobile-Net model.
+Set for mininet and change corresponding to which model you are using.
 """
 from tensorflow.keras.applications import VGG16, NASNetMobile, MobileNet
 from tensorflow.keras.layers import (
